@@ -9,6 +9,9 @@ This repository contains two interconnected machine learning projects focused on
 
 These projects demonstrate the application of machine learning techniques to astronomical data, aiming to accelerate research in galaxy evolution and cosmology.
 
+![Galaxy Types](galaxies.png)
+*Figure: Examples of different galaxy types used in the classification model.*
+
 ## Repository Contents
 
 - `redshift_regression.ipynb`: Jupyter notebook for the redshift prediction model
