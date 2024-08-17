@@ -54,9 +54,13 @@ Note: Ensure you have Jupyter Notebook installed and that the .npy data files ar
 ## Results
 
 ### Redshift Regression
-- XGBoost Model:
-  - Mean Squared Error (MSE): 0.058631
-  - R-squared score: 0.797278
+XGBoost model:
+- Mean Squared Error: 0.058631 
+- R-squared score: 0.797278
+
+Ridge Regression:
+- Mean Squared Error: 0.157324
+- R-squared score 0.443480
 
 ### Galaxy Classification
 - Test Accuracy: 0.8564
