@@ -1,4 +1,4 @@
-# AstroML-Galaxy-Analysis
+# AstroML Galaxy Analysis
 
 ## Overview
 
